@@ -1,5 +1,10 @@
 # **Rainfall Prediction App**
 
+---
+![Screenshot 2025-01-27 160808](https://github.com/user-attachments/assets/41317026-b8cd-4905-87ef-086a7eab5f10)
+
+---
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -7,10 +12,7 @@
 
 Welcome to the **Rainfall Prediction App**! This project predicts the **monthly sum of rainfall** based on meteorological data such as Specific Humidity, Relative Humidity, and Temperature. The app is built using **Streamlit** and powered by a **Random Forest Regressor** model trained on data from NASA's POWER project.
 
-🌐 **Live App**: [https://mumbai-rainfall-pred-ak19.onrender.com/](https://mumbai-rainfall-pred-ak19.onrender.com/)  
-
-![Screenshot 2025-01-27 160808](https://github.com/user-attachments/assets/41317026-b8cd-4905-87ef-086a7eab5f10)
-
+🌐 **Live App**: [https://mumbai-rainfall-pred-ak19.onrender.com/](https://mumbai-rainfall-pred-ak19.onrender.com/) 
 
 📂 **GitHub Repository**: [https://github.com/Aakash109-hub/Rainfall_Prediction](https://github.com/Aakash109-hub/Rainfall_Prediction)
 
