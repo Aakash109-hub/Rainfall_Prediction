@@ -157,6 +157,6 @@ Enjoy using the **Rainfall Prediction App**! 🌧️
 ### **Key Updates**
 - Added the **Live App** and **GitHub Repository** links at the top.
 - Added a **Deployment** section with steps to deploy the app on Render.
-- Updated the **Contact** section with your GitHub profile.
+- Updated the **Contact** section with your GitHub profile
 
 Let me know if you need further changes! 😊
