@@ -10,7 +10,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-Welcome to the **Rainfall Prediction App**! This project predicts the **monthly sum of rainfall** based on meteorological data such as Specific Humidity, Relative Humidity, and Temperature. The app is built using **Streamlit** and powered by a **Random Forest Regressor** model trained on data from NASA's POWER project.
+Welcome to the **Rainfall Prediction App**! This project predicts the **monthly sum of rainfall** based on meteorological data such as Specific Humidity, Relative Humidity, and Temperature. The app is built using **Streamlit** and powered by a **Random Forest Regressor** model trained on data from NASA's POWER project
 
 🌐 **Live App**: [https://mumbai-rainfall-pred-ak19.onrender.com/](https://mumbai-rainfall-pred-ak19.onrender.com/) 
 
